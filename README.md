@@ -1,2 +1,2 @@
 # PHP_Sample05
-PHP Sample 05
+はじめてのPHP 簡易アクセスカウンター
